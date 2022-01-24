@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bednicka2
-- 👀 I’m interested in tbd
 - 🌱 I’m currently learning Python
 - 📫 How to reach me? Send me a mail to: dbednarova92@gmail.com
 
