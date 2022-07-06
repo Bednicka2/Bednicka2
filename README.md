@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bednicka2
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & SQL
 - 📫 How to reach me? Send me a mail to: dbednarova92@gmail.com
 
 <!---
